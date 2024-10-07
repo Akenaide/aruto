@@ -1,0 +1,19 @@
+.content-panel {
+    display: flex;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column; /* Add this line */
+}
+
+#collection {
+    width: 400px;
+}
+
+#card-list {
+    flex-grow: 1; /* Make the card list take up most of the space */
+}
+
+#expend-collection {
+}
