@@ -1,1 +1,1 @@
-chrome.devtools.panels.create("MyPanel", null, "panel.html");
+chrome.devtools.panels.create("Hato", null, "panel.html");
